@@ -31,14 +31,12 @@ To display scrollable tab bar call this method
 </b>
 
 <b>
-Screen with Scrollable Tabs
-![alt tag](https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen1.png)<br />
-Scrolling around Scrollable Tabs
-![alt tag](https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen2.png)<br />
-Selecting Github in Scrollable Tabs
-![alt tag](https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen3.png)<br />
-Selecting RSS in Scrollable Tabs
-![alt tag](https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen4.png)<br />
+Screen with Scrollable Tabs, Scrolling around Scrollable Tabs
+![alt tag](https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen1.png=250x)
+![alt tag](https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen2.png=250x)<br />
+Selecting Github, RSS in Scrollable Tabs
+![alt tag](https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen3.png=250x)
+![alt tag](https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen4.png=250x)<br />
 </b>
 
 Sample code to be used from main project to display scrollable tab bar

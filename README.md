@@ -1,6 +1,16 @@
 # ScrollableTabBar
 Scrollable Tab Bar can be use to display scrollable tab bar. It's very easy to use.
 
+<br />
+Usage
+<b>
+Podfile
+</b>
+```
+platform :ios, '7.0'
+pod "ScrollableTabbar", "~> 1.0.0"
+```
+
 <b>
 To display scrollable tab bar call this method
 [WTScrollableTabbar scrollableTabbarWithTabItems:frame:tabBarDelegate:]
@@ -20,6 +30,7 @@ To display scrollable tab bar call this method
 ```
 </b>
 
+Sample code to be used from main project to display scrollable tab bar
 ```
 - (void)viewDidAppear:(BOOL)animated
 {

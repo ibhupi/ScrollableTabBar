@@ -32,10 +32,10 @@ To display scrollable tab bar call this method
 
 <b>
 Screen with Scrollable Tabs, Scrolling around Scrollable Tabs<br />
-<img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen1.png" width="250" alt="Screen with Scrollable Tabs"/>
+<img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen1.png" width="250" alt="Screen with Scrollable Tabs"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen2.png" width="250" alt="Scrolling around Scrollable Tabs"/><br /><br />
 Selecting Github, RSS in Scrollable Tabs<br />
-<img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen3.png" width="250" alt="Selecting Github"/>
+<img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen3.png" width="250" alt="Selecting Github"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/ibhupi/ScrollableTabBar/master/screenshots/screen4.png" width="250" alt="RSS in Scrollable Tabs"/>
 
 </b>
